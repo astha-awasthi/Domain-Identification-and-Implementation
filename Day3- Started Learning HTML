@@ -1,0 +1,58 @@
+Introduction To HTML
+What is HTML?
+HTML is a language made up of elements, which can be applied to pieces of text to give them different meaning in a document (Is it a paragraph? Is it a bulleted list? 
+Is it part of a table?), structure a document into logical sections (Does it have a header? Three columns of content? A navigation menu?), and embed content such as images and videos into a page. 
+This file will introduce the first two of these and introduce fundamental concepts and syntax you need to know to understand HTML.
+HTML stands for Hyper Text Markup Language
+HTML is the standard markup language for creating Web pages
+HTML describes the structure of a Web page
+HTML consists of a series of elements
+HTML elements tell the browser how to display the content
+HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
+
+Getting started with HTML
+We will cover the absolute basics of HTML. 
+
+What is HTML?
+HTML (HyperText Markup Language) is a markup language that tells web browsers how to structure the web pages you visit. 
+It can be as complicated or as simple as the web developer wants it to be.
+HTML consists of a series of elements, which you use to enclose, wrap, or mark up different parts of content to make it appear or act in a certain way.
+The enclosing tags can make content into a hyperlink to connect to another page, italicize words, and so on. 
+
+For example, consider the following line of text:
+Welcome to my github profile
+If we wanted the text to stand by itself, we could specify that it is a paragraph by enclosing it in a paragraph (<p>) element:
+<p>Welcome to my github profile</p>
+
+
+***NOTE: ***
+Tags in HTML are not case-sensitive. This means they can be written in uppercase or lowercase.
+For example, a <title> tag could be written as <title>, <TITLE>, <Title>, <TiTlE>, etc., and it will work.
+However, it is best practice to write all tags in lowercase for consistency and readability.
+
+Anatomy of an HTML element
+Let's further explore our paragraph element from the previous section:
+The anatomy of our element is:
+
+The opening tag: This consists of the name of the element (in this example, p for paragraph), wrapped in opening and closing angle brackets. This opening tag marks where the element begins or starts to take effect. In this example, it precedes the start of the paragraph text.
+The content: This is the content of the element. In this example, it is the paragraph text.
+The closing tag: This is the same as the opening tag, except that it includes a forward slash before the element name. This marks where the element ends. Failing to include a closing tag is a common beginner error that can produce peculiar results.
+***The element is the opening tag, followed by content, followed by the closing tag.***
+
+Attributes
+Elements can also have attributes. 
+
+
+Attributes contain extra information about the element that won't appear in the content. In this example, the class attribute is an identifying name used to target the element with style information.
+
+An attribute should have:
+
+A space between it and the element name. (For an element with more than one attribute, the attributes should be separated by spaces too.)
+The attribute name, followed by an equal sign.
+An attribute value, wrapped with opening and closing quote marks.
+
+
+
+
+
+// I'M CURRENTLY LEARNING HOW TO IMPROVE MY GITHUB CONTENT !!!
