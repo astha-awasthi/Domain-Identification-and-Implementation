@@ -6,7 +6,7 @@ All kinds of Suggestions are welcome !
 Primary Domain: Web Development
 Domain 2: Android Development
 
-Primary Goal: to get placed in super dream company
+<br>Primary Goal: to get placed in super dream company</br>
 Secondary Goal: SDE 1 at Amazon
 
 Daily Updates:
